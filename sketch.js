@@ -7,6 +7,7 @@ function setup() {
     telaInicial,
     jogo
   };
+  som.loop();
   frameRate(40);
 }
 

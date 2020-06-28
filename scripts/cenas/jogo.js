@@ -36,9 +36,7 @@ class Jogo {
     inimigos.push(inimigo);
     inimigos.push(inimigoGrande);
     inimigos.push(inimigoVoador);
-    
-
-    som.loop();
+  
   }
 
   keyPressed(key) {

@@ -12,5 +12,3 @@ Durante a semana de 22 a 26 de Junho a Alura proporcionou uma imersão de desenv
 
 ## Jogo
 Link: https://andressandrade.github.io/javascript-runner-game/
-
-<iframe src="https://editor.p5js.org/dsandrade66/embed/eAIYX2_VP"></iframe>
