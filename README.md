@@ -12,6 +12,7 @@ Durante a semana de 22 a 26 de Junho a Alura proporcionou uma imersão de desenv
 
 ## Jogo
 Link: https://hopeful-murdock-fd3a7f.netlify.app
+Link2: https://andressandrade.github.io/javascript-runner-game/
 
 ## 📝Licença
 
