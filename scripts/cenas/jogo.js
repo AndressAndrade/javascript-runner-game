@@ -87,7 +87,7 @@ class Jogo {
     inimigo.exibe();
     inimigo.move();
 
-    if (linhaAtual.inimigo === 2) {
+    if (linhaAtual.inimigo === 1) {
       if (personagem.estaColidindo2(inimigo)) {
         vida.perdeVida();
         personagem.ficaInvencivel();

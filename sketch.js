@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(800, 800);
   jogo = new Jogo();
   telaInicial = new TelaInicial();
   botaoGerenciador = new BotaoGerenciador('Iniciar',width/2, height/2);
